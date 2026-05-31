@@ -1,0 +1,15 @@
+# 本地敏感配置
+agents/config.local.json
+agents/stage2_content.local.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# 生成产物（运行时输出）
+output/
+*.docx
+*.pdf

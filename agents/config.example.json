@@ -1,0 +1,9 @@
+{
+    "pages_dir": "path/to/rendered/page-images",
+    "out_dir": "path/to/output-folder",
+    "title": "示例课件标题",
+    "bottom": "20页可编辑文字PPT + 逐字稿 + 教学设计",
+    "bg_color": [26, 82, 118],
+    "page_count": 20,
+    "page_prefix": "page-"
+}
